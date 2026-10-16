@@ -17,7 +17,7 @@ public class Ejercicio8 {
 		
 		edad = teclado.nextInt();
 		
-		
+		if (edad>50);
 
 	}
 
